@@ -1,0 +1,259 @@
+﻿
+@{
+    ViewData["Title"] = "Producto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Estilos{
+    <!-- ============================================================
+    =ESTILOS PARA ESTA PAGINA
+    ===============================================================-->
+    <link rel="stylesheet" href="~/vendor/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/buttons.dataTables.min.css">
+
+}
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3 bg-second-primary">
+            <h6 class="m-0 font-weight-bold text-white">Lista de Productos</h6>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-sm-3">
+                    <button class="btn btn-success" data-toggle="modal" data-target="#modalData"><i class="fas fa-plus-circle"></i> Nuevo Producto</button>
+                </div>
+            </div>
+            <hr />
+            <div class="row">
+                <div class="col-sm-12">
+                    <table class="table table-bordered" id="tbdata" cellspacing="0" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Imagen</th>
+                                <th>Codigo Barra</th>
+                                <th>Marca</th>
+                                <th>Descripcion</th>
+                                <th>Categoria</th>
+                                <th>Stock</th>
+                                <th>Precio</th>
+                                <th>Estado</th>
+                                <th>Unidad Medida</th>
+                                <th>Clave Producto SAT</th>
+                                <th>Objeto de Impuesto</th>
+                                <th>Factor Impuesto</th>
+                                <th>Impuesto</th>
+                                <th>Tipo de Impuesto</th>
+                                <th>Descuento %</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                           
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  Modal-->
+    <div class="modal fade" id="modalData" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h6>Detalle Producto</h6>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <input type="hidden" value="0" id="txtId">
+                        <div class="row">
+                            <div class="col-sm-8">
+                                <div class="form-row">
+                                    <div class="form-group col-sm-6">
+                                        <label for="txtCodigoBarra">Codigo Barra</label>
+                                        <input type="text" class="form-control form-control-sm input-validar" id="txtCodigoBarra" name="Codigo Barra">
+                                    </div>
+                                    <div class="form-group col-sm-6">
+                                        <label for="txtMarca">Marca</label>
+                                        <input type="text" class="form-control form-control-sm input-validar" id="txtMarca" name="Marca">
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group col-sm-12">
+                                        <label for="txtDescripcion">Descripcion</label>
+                                        <input type="text" class="form-control form-control-sm input-validar" id="txtDescripcion" name="Descripcion">
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group col-sm-6">
+                                        <label for="cboCategoria">Categoria</label>
+                                        <select class="form-control form-control-sm" id="cboCategoria">
+                                            <option value="0">seleccionar</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group col-sm-6">
+                                        <label for="txtStock">Stock</label>
+                                        <input type="text" class="form-control form-control-sm input-validar" id="txtStock" name="Stock">
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group col-sm-6">
+                                        <label for="txtPrecio">Precio</label>
+                                        <input type="text" class="form-control form-control-sm input-validar" id="txtPrecio" name="Precio">
+                                    </div>
+                                    <div class="form-group col-sm-6">
+                                        <label for="cboEstado">Estado</label>
+                                        <select class="form-control form-control-sm" id="cboEstado">
+                                            <option value="1">Activo</option>
+                                            <option value="0">No Activo</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            <div class="form-row">
+                                <div class="form-group col-sm-6">
+                                    <label for="cboUnidadMedida">Unidad de Medida</label>
+                                    <select class="form-control form-control-sm" id="cboUnidadMedida">
+                                        <option value="0">Seleccionar</option>
+                                        <option value="A9">A9 - Tarifa</option>
+                                        <option value="E48">E48 - Unidad de servicio</option>
+                                        <option value="H87">H87 - Pieza</option>
+                                        <option value="KGM">KGM - Kilogramo</option>
+                                        <option value="GRM">GRM - Gramo</option>
+                                        <option value="MTR">MTR - Metro</option>
+                                        <option value="LTR">LTR - Litro</option>
+                                        <option value="MLT">MLT - Mililitro</option>
+                                        <option value="HUR">HUR - Hora</option>
+                                        <option value="MIN">MIN - Minuto</option>
+                                        <option value="SEC">SEC - Segundo</option>
+                                        <option value="C62">C62 - Uno</option>
+                                        <option value="XBX">XBX - Caja</option>
+                                        <option value="BG">BG - Bolsa</option>
+                                        <option value="RO">RO - Rollo</option>
+                                        <option value="E51">E51 - Tarifa</option>
+                                    </select>
+
+                                </div>
+                                <div class="form-group col-sm-6">
+                                    <label for="cboClaveProductoSat">Clave Producto SAT</label>
+                                    <select class="form-control form-control-sm" id="cboClaveProductoSat">
+                                        <option value="0">Seleccionar</option>
+                                        <option value="01010101">01010101 - No existe en el catálogo</option>
+                                        <option value="32101601">32101601 - Memoria de acceso aleatorio (RAM)</option>
+                                        <option value="32101608">32101608 - Memoria de sólo lectura (ROM)</option>
+                                        <option value="32101621">32101621 - Memoria dram síncrona (SDRAM)</option>
+                                        <option value="43191605">43191605 - Cables para auriculares de teléfonos</option>
+                                        <option value="43191606">43191606 - Auriculares de teléfonos</option>
+                                        <option value="43191621">43191621 - Adaptadores de auriculares</option>
+                                        <option value="43201803">43201803 - Unidades de disco duro</option>
+                                        <option value="43202205">43202205 - Teclas o teclados</option>
+                                        <option value="43211500">43211500 - Computadores</option>
+                                        <option value="43211503">43211503 - Computadores notebook</option>
+                                        <option value="43211507">43211507 - Computadores de escritorio</option>
+                                        <option value="43211508">43211508 - Computadores personales</option>
+                                        <option value="43211509">43211509 - Computadores de tableta</option>
+                                        <option value="43211706">43211706 - Teclados</option>
+                                        <option value="43211719">43211719 - Micrófonos de voz para computadores</option>
+                                        <option value="43211900">43211900 - Monitores y pantallas de computador</option>
+                                        <option value="46171612">46171612 - Monitores de video</option>
+                                    </select>
+
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-sm-6">
+                                    <label for="cboObjetoImpuesto">Objeto Impuesto</label>
+                                    <select class="form-control form-control-sm" id="cboObjetoImpuesto">
+                                        <option value="0">seleccionar</option>
+                                        <option value="01">01-No objeto de Impuesto</option>
+                                        <option value="02">02-Si objeto de Impuesto</option>
+                                        <option value="03">03-Si objeto del impuesto y no obligado al desglose</option>
+                                        <option value="04">04-Si objeto del impuesto y no causa impuesto</option>
+                                    </select>
+                                </div>
+                                <div class="form-group col-sm-6">
+                                    <label for="cboFactorImpuesto">Factor Impuesto</label>
+                                    <select class="form-control form-control-sm" id="cboFactorImpuesto">
+                                        <option value="0">seleccionar</option>
+                                        <option value="Tasa">Tasa</option>
+                                        <option value="Cuota">Cuota</option>
+                                        <option value="Exento">Exento</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-sm-6">
+                                    <label for="cboImpuesto">Impuesto</label>
+                                    <select class="form-control form-control-sm" id="cboImpuesto">
+                                        <option value="0">seleccionar</option>
+                                        <option value="001">001-ICR</option>
+                                        <option value="002">002-IVA</option>
+                                        <option value="003">003-IEPS</option>
+                                    </select>
+                                </div>
+                                <div class="form-group col-sm-6">
+                                    <label for="decValorImpuesto">Valor Impuesto</label>
+                                    <input type="number" class="form-control form-control-sm input-validar" id="decValorImpuesto">
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-sm-6">
+                                    <label for="cboTipoImpuesto">Tipo Impuesto</label>
+                                    <select class="form-control form-control-sm" id="cboTipoImpuesto">
+                                        <option value="0">seleccionar</option>
+                                        <option value="Translado">Translado</option> 
+                                    </select>
+                                </div>
+                                <div class="form-group col-sm-6">
+                                    <label for="decDescuento">Descuento %</label>
+                                    <input type="number" class="form-control form-control-sm input-validar" id="decDescuento" min="0" max="100">
+                                </div>
+                            </div>
+
+                                <div class="form-row">
+                                    <div class="form-group col-sm-6">
+                                        <label for="txtImagen">Imagen</label>
+                                        <input class="form-control-file" type="file" id="txtImagen" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <img id="imgProducto" style="max-width:200px;" src="" class="rounded mx-auto d-block" alt="...">
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary btn-sm" type="button" id="btnGuardar">Guardar</button>
+                    <button class="btn btn-danger btn-sm" type="button" data-dismiss="modal">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+@section Scripts{
+    <!-- ============================================================
+    =SCRIPTS PARA ESTA PAGINA
+    ===============================================================-->
+    <script src="~/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.responsive.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.buttons.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/jszip.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.html5.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.print.min.js"></script>
+
+    <script src="~/js/vistas/Producto_Index.js"></script>
+
+    <!-- SOLO ES DE EJEMPLO - IGNORAR -->
+    @* <script src="~/js/vistas/datatables-demo.js"></script> *@
+}

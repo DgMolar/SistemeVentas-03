@@ -1,0 +1,121 @@
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CopyComplete
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\Users\diego\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.sourcelink.json
+C:\Users\diego\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.BLL\obj\Debug\net6.0\SistemaV.93BC7325.Up2Date
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.deps.json
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaV.93BC7325.Up2Date
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\refint\SistemaVenta.BLL.dll
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\ref\SistemaVenta.BLL.dll
+C:\Users\diego\Source\Repos\DgMolar\Proyecto2-Ventas\SistemaVenta.BLL\obj\Debug\net6.0\SistemaVenta.BLL.sourcelink.json

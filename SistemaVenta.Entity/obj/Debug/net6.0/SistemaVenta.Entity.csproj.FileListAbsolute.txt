@@ -1,0 +1,100 @@
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\diego\source\repos\DgMolar\ProyectoVentasPI\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\diego\source\repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\Erik Torres\Source\Repos\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\DELL\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\Karen\Desktop\EMMA-PIB\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\Administrador\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\diego\Source\Repos\DgMolar\SistemaVentas-Equipo1\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.sourcelink.json
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\diego\source\repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\diego\Source\Repos\DgMolar\Proyecto2-Ventas\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.sourcelink.json

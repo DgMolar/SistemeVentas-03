@@ -1,0 +1,3 @@
+git rm --cached -r .vs
+git rm --cached -r .git
+.vs/SolucionSistemaVenta/FileContentIndex/63b9fa04-24eb-441c-9c1c-33ef279cf274.vsidx
