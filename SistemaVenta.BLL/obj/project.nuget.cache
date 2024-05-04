@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DsPvr8Y9EZry1DP+x+651M7wxUCxyUW3jJdDzchpDqb4+Oxi1tyMF8AzhsJAwnqRvxslO3NDzKh3Kz43gB1stw==",
+  "dgSpecHash": "lrtiIgihUBSoLr5ZtLnh+5RKK7sYgF5Sifnrxvc3YnhJ417j9m7NafwGE896q/n6tVXJBhowbR5wvoC9brg+eA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+  "projectFilePath": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\firebaseauthentication.net\\3.7.2\\firebaseauthentication.net.3.7.2.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\firebasedatabase.net\\4.2.0\\firebasedatabase.net.4.2.0.nupkg.sha512",

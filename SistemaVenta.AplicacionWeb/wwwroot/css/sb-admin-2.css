@@ -11335,3 +11335,11 @@ footer.sticky-footer .copyright {
 body.sidebar-toggled footer.sticky-footer {
   width: 100%;
 }
+
+.bgmifondo {
+    background-color: #58A399 !important;
+}
+
+.bgmifondo2 {
+    background-color: #A8CD9F !important;
+}

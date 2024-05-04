@@ -11877,11 +11877,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
       "projectName": "SistemaVenta.AplicacionWeb",
-      "projectPath": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+      "projectPath": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.AplicacionWeb\\obj\\",
+      "outputPath": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.AplicacionWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11898,14 +11898,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-              "projectPath": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
             },
-            "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-              "projectPath": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+            "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
             },
-            "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
-              "projectPath": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
+            "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
             }
           }
         }

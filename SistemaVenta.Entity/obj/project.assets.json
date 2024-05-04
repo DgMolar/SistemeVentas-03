@@ -2017,11 +2017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
       "projectName": "SistemaVenta.Entity",
-      "projectPath": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+      "projectPath": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.Entity\\obj\\",
+      "outputPath": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
