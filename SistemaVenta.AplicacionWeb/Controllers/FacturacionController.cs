@@ -8,6 +8,13 @@ namespace SistemaVenta.AplicacionWeb.Controllers
 {
     public class FacturacionController : Controller
     {
+        // Acción para mostrar la vista de facturación
+        public IActionResult Index()
+        {
+            return View();
+        }
+
+        // Acción para manejar la solicitud de facturación
         [HttpPost]
         public async Task<IActionResult> Facturar([FromBody] string xmlGenerado)
         {
@@ -17,21 +24,14 @@ namespace SistemaVenta.AplicacionWeb.Controllers
                 string user = "FIME";
                 string password = "s9%4ns7q#eGq";
 
-                Console.Write("Hola Mundo Sobre Linea 1");
-                Console.Write("EL XML 2 CONTIENE" + xmlGenerado);
-                
-
                 // Crear una instancia del cliente del servicio web
                 var client = new TimbradoSoapClient(TimbradoSoapClient.EndpointConfiguration.TimbradoSoap);
-                
 
                 // Llamar al método del servicio web y procesar la respuesta
-                TimbradoService.TimbrarFResponse response = await client.TimbrarFAsync(user , password, xmlGenerado);
-                Console.Write("Hola Mundo Sobre Linea 4");
+                TimbradoService.TimbrarFResponse response = await client.TimbrarFAsync(user, password, xmlGenerado);
 
                 // Obtener los bytes de la respuesta
                 byte[] resultadoTimbradoBytes = response.Body.TimbrarFResult;
-
 
                 // Procesar la respuesta cuando es exitosa
                 if (resultadoTimbradoBytes != null && resultadoTimbradoBytes.Length > 0)

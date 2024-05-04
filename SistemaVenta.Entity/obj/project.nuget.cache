@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HyCUTIaf+v9gBZEbgUsciXF/AluNtsTamIT96zeiuylSWuyVxH8f2VRIbmKb4MeUhKf29LDGQksuJrigNKtprA==",
+  "dgSpecHash": "4iW7BRjfHd2awt/vaOOzGRd/Cs882WxKxqtwJg7h+Ph6rr0n+ZovsvIse7ZDlxnumVdj5i0cfOJJbDTve+ZEug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\Source\\Repos\\DgMolar\\Proyecto2-Ventas\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+  "projectFilePath": "C:\\Users\\diego\\source\\repos\\DgMolar\\SistemeVentas-03\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
