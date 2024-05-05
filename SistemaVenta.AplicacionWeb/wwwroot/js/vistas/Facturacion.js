@@ -195,22 +195,26 @@ $("#tbventa tbody").on("click", ".btnFacturar", function () {
 
                     // Verificar el estado de la respuesta
                     if (response.ok) {
+                        const blob = await response.blob();
+                        const url = window.URL.createObjectURL(blob);
+                        const a = document.createElement('a');
+                        a.href = url;
+                        a.download = 'FacturaTimbrada.zip';
+                        document.body.appendChild(a);
+                        a.click();
+                        window.URL.revokeObjectURL(url);
                         // La solicitud se realizó con éxito
                         ocultarMensajeError();
                         ocultarMensajeExito();
                         mostrarMensajeExito();
                         console.log('La facturación se realizó correctamente.');
-                        //setTimeout(() => {
-                        //    location.reload();
-                        //}, 2000);
+                        
                     } else {
                         // Hubo un error en la solicitud
                         ocultarMensajeExito();
                         ocultarMensajeError();
                         mostrarMensajeError();
-                        //setTimeout(() => {
-                        //    location.reload();
-                        //}, 1000);
+                        
                         console.error('Error al intentar facturar:', response.statusText);
                     }
 
@@ -274,7 +278,7 @@ function obtenerInfoNegocio() {
 
 function generarXML(datos) {
     let xml = `<Comprobante>`;
-    xml += `<idLocal>knkj3${datos.Venta.idLocal}</idLocal>`;
+    xml += `<idLocal>descarga${datos.Venta.idLocal}</idLocal>`;
     xml += `<version>${datos.Venta.version}</version>`;
     xml += `<serie/>`;
     xml += `<folio>${datos.Venta.folio}</folio>`;
