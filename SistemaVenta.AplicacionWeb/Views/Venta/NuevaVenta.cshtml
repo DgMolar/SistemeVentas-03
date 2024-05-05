@@ -16,15 +16,63 @@
         }
     </style>
 }
-
-    <div class="row">
-        <div class="col-sm-8">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div class="card shadow mb-4">
+<!-- DATOS CLIENTE -->
+<div class="row">
+    <div class="col-sm-8">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card shadow mb-4">
                     <div class="card-header py-3 bgmifondo2 bg-second-primary">
-                            <h6 class="m-0 font-weight-bold text-white">Cliente</h6>
+                        <h6 class="m-0 font-weight-bold text-white">Cliente</h6>
+                    </div>
+                    <!--PARTE DE CLIENTE -->
+                    <div class="col-sm-5">
+                        <div class="form-row mt-3">
+                            <div class="form-group col-sm-12">
+                                <select class="form-control form-control-sm" id="cboBuscarCliente">
+                                    <option value=""></option>
+                                </select>
+                            </div>
                         </div>
+                    </div>
+
+                    <div class="form-row px-2">
+                        <input type="hidden"
+                               class="form-control form-control-sm input-validar"
+                               id="idCliente"
+                               name="Stock"
+                               value=""
+                               readonly />
+                        <div class="form-group col-sm-4">
+                            <label for="nombreRazonSocial">Nombre o razón social:</label>
+                            <input type="text"
+                                   class="form-control form-control-sm input-validar"
+                                   id="nombreRazonSocial"
+                                   name="Stock"
+                                   value=""
+                                   readonly />
+                        </div>
+                        <div class="form-group col-sm-4">
+                            <label for="txtRFC">RFC:</label>
+                            <input type="text"
+                                   class="form-control form-control-sm input-validar"
+                                   id="txtRFC"
+                                   name="Stock"
+                                   value=""
+                                   readonly />
+                        </div>
+                        <div class="form-group col-sm-4">
+                            <label for="txtCorreo">Correo:</label>
+                            <input type="text"
+                                   class="form-control form-control-sm input-validar"
+                                   id="txtCorreo"
+                                   name="Stock"
+                                   value=""
+                                   readonly />
+                        </div>
+                    </div>
+
+                    <!--PARTE DE CLIENTE ANTIGUO
                     <div class="row">
                         <div class="col-sm-12 px-5 py-1">
                             <table class="table table-bordered" id="tbdata" cellspacing="0" style="width:100%">
@@ -38,17 +86,18 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                    
+
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
-                    </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
-
         </div>
+
+    </div>
+
         <div class="col-sm-4">
 
             <div class="row">

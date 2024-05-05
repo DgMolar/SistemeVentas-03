@@ -274,7 +274,7 @@ function obtenerInfoNegocio() {
 
 function generarXML(datos) {
     let xml = `<Comprobante>`;
-    xml += `<idLocal>kjrkwedkjjnjkwenkjfbnkj3${datos.Venta.idLocal}</idLocal>`;
+    xml += `<idLocal>knkj3${datos.Venta.idLocal}</idLocal>`;
     xml += `<version>${datos.Venta.version}</version>`;
     xml += `<serie/>`;
     xml += `<folio>${datos.Venta.folio}</folio>`;

@@ -37,11 +37,11 @@ namespace SistemaVenta.AplicacionWeb.Controllers
                 if (resultadoTimbradoBytes != null && resultadoTimbradoBytes.Length > 0)
                 {
                     // Crear un directorio para almacenar los archivos
-                    string directorioSalida = @"C:\Users\diego\Downloads\Facturas"; // Cambia esta ruta según tu necesidad
+                    string directorioSalida = @"C:\Users\diego\Downloads\FacturasTimbradas"; // Cambia esta ruta según tu necesidad
                     Directory.CreateDirectory(directorioSalida);
 
                     // Guardar el archivo ZIP en disco
-                    string archivoZip = Path.Combine(directorioSalida, "Factura-Venta-1.zip");
+                    string archivoZip = Path.Combine(directorioSalida, "FacturaTimbrada.zip");
                     await System.IO.File.WriteAllBytesAsync(archivoZip, resultadoTimbradoBytes);
 
                     // Devolver una respuesta de éxito si todo salió bien

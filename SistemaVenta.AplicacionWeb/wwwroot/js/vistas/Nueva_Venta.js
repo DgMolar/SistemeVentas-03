@@ -2,48 +2,68 @@
 let tableData;
 let idCliente = null;
 $(document).ready(function () {
-    tableData = $('#tbdata').DataTable({
-        responsive: true,
-        "ajax": {
-            "url": '/Cliente/Lista',
-            "type": "GET",
-            "datatype": "json"
-        },
-        "columns": [
-            { "data": "idCliente", "searchable": false },
-            { "data": "nombre" },
-            { "data": "rfc" },
-            {
-                "data": null,
-                "render": (data, type, row) => {
-                    return `<input type="checkbox" class="selector" data-id="${row.idCliente}">`;
-                },
-                "orderable": false,
-                "searchable": false,
-                "width": "40px"
+    $("#cboBuscarCliente").select2({
+        ajax: {
+            url: '/Cliente/Lista',
+            type: 'GET',
+            dataType: 'json',
+            data: function (params) {
+                return {
+                    busqueda: params.term
+                };
             },
-        ],
-        order: [[0, "asc"]],
-        dom: "Bfrtip",
-        buttons: [
-        ],
-        language: {
-            url: "https://cdn.datatables.net/plug-ins/1.11.5/i18n/es-ES.json"
+            processResults: function (respuesta) {
+                var data = respuesta.data;
+                return {
+                    results: data.map(function (client) {
+                        return {
+                            id: client.idCliente,
+                            nombre: client.nombre,
+                            correo: client.correo,
+                            rfc: client.rfc,
+                            domicilioFiscalReceptor: client.domicilioFiscalReceptor,
+                            regimenFiscalReceptor: client.regimenFiscalReceptor
+                        };
+                    })
+                };
+            }
         },
-        pageLength: 1,
-        searchDelay: 500 // tiempo en milisegundos entre cada búsqueda
+        placeholder: 'Buscar Cliente...',
+        minimumInputLength: 1,
+        templateResult: formatoResultadosClientes
+    });
+    function formatoResultadosClientes(data) {
+
+        //esto es por defecto, ya que muestra el "buscando..."
+        if (data.loading)
+            return data.text;
+
+        var contenedor = $(
+            `<table width="100%">
+            <tr>
+                <td>
+                    <p style="font-weight: bolder;margin:2px">${data.id}-${data.nombre}</p>
+                    <p style="margin:2px">${data.rfc}</p>
+                </td>
+            </tr>
+         </table>`
+        );
+
+        return contenedor;
+    }
+
+    // Capturar evento de selección de cliente
+    $("#cboBuscarCliente").on("select2:select", function (ev) {
+        dataCliente = ev.params.data;
+        idCliente = dataCliente.id;
+        $("#idCliente").val(dataCliente.id);
+        $("#nombreRazonSocial").val(dataCliente.nombre);
+        $("#txtRFC").val(dataCliente.rfc);
+        $("#txtCorreo").val(dataCliente.correo);
     });
 
-    $('#tbdata tbody').on('click', '.selector', function () {
-        console.log("entre")
-        idCliente = $(this).data('id');
-        var isChecked = $(this).prop('checked');
-
-        if (isChecked === false) {
-            idCliente = null;
-            console.log("Soy null")
-        }
-
+    $(document).on("select2:open", function () {
+        document.querySelector(".select2-search__field").focus();
     });
 
 
